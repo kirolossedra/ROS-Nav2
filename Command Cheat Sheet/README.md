@@ -13,3 +13,6 @@ ros2 launch turtlebot3_cartographer cartographer.launch.py
 ```
 
 ros2 run nav2_map_server map_saver_cli -f maps/my_map
+
+
+sudo apt install ros-humble-rmw-cyclonedds-cpp
